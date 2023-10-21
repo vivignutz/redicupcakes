@@ -1,2 +1,60 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap");
 
+body {
+  box-sizing: border-box;
+  background-color: #ddebef;
+  color: #252222;
+}
+
+#logo {
+  font-size: 280%;
+  opacity: 1;
+}
+
+img {
+  border-radius: 3%;
+  float: left;
+  width: 100px;
+  height: 100px;
+}
+
+.active {
+  font-size: 20px;
+  font-weight: 600;
+  color: #252222;
+  text-decoration: none;
+  gap: 80px;
+}
+
+.header__menu {
+  display: flex;
+  padding: 1% 1% 1% 1%;
+}
+
+span {
+  color: #ff0000;
+}
+
+.footer {
+  padding: 10px;
+  background-color: #4eadca;
+  color: #252222;
+}
+
+.social-network {
+  text-align: center;
+}
+
+.social-network > li {
+  display: inline;
+}
+
+.social-network i {
+  padding: 25px;
+  color: #3c3839;
+}
+
+#footer {
+  color: #3c3839;
+  text-align: center;
+}
