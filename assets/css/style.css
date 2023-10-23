@@ -112,7 +112,6 @@ span {
 
 /* Contact form */
 .contact {
-  width: 100%;
   height: auto;
   margin-bottom: 40px;
   padding-left: 5em;
@@ -122,6 +121,8 @@ span {
 #form {
   display: inherit;
   font-family: "Roboto";
+  width: 70%;
+  margin: 0 auto; /* To centralize in horizontal position */
 }
 
 form {
