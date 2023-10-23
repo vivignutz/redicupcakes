@@ -43,6 +43,29 @@ img {
   margin-right: 20px; /* This gives space between the menu items */
 }
 
+.presentation {
+  padding: 5% 15%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.presentation__content {
+  width: 615px;
+  display: flex;
+  flex-direction: column;
+}
+
+.presentation__content__title {
+  font-size: 36px;
+}
+
+.presentation__content__text {
+  font-size: 20px;
+}
+
+
+
 span {
   color: #ff0000;
 }
