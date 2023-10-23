@@ -44,11 +44,15 @@ It consists of a very simple web page created with **HTML5 and CSS3** for learni
   - The same color of the header was used here in order to order the website in its colors.
   - The social media icons were taken from Font Awesome icons and style with CSS. They are central positioned to offer to keep offering to the visitors a clear impression of the website.
 
-![alt text](assets/imgs/footer.png)
+![Footer](assets/imgs/footer.png)
 
 ## User Experience (UX)
 
 Thinking of the user, the ReDi Cupcakes aims to presents a cupcake project which can be finished and started as soon the shop is done. It's a project in construction, in which can be developed turning am online shop of cupcakes in Berlin.
+
+The pallet colors udes was created by coolors.
+
+![Colors used](assets/imgs/color_pallet.png)
 
 - #### First impressions of the users
 
