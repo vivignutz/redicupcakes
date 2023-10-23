@@ -38,6 +38,7 @@ img {
   justify-content: space-between; /* This aligns the elements with space */
   align-items: center;
   padding: 1% 1% 1% 1%;
+  top: 0;
 }
 
 .header__menu {
@@ -147,7 +148,6 @@ textarea {
   margin: 10px 0;
   padding: 10px 20px;
   border-radius: 5px;
-  position: center;
 }
 
 input[type="submit"] {
